@@ -2,10 +2,10 @@
 
 # Files
 
-Please download the files by clicking on the button "code" then "download ZIP".
+Click on "Use this template" to copy all the files in your github account
 
 # Upload files
 
-To send your work, create a new repository and share the link to the email address you will be given.
+To send your work, share the link of your repo to the email address you will be given.
 
 ### © L. GALLET - 2020
